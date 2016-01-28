@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "mlb406@gmail.com",
+    "longName": "METAR",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "METAR",
+    "uuid": "130e93a3-e6f9-4b57-86ad-29be48253865",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
